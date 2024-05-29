@@ -1,0 +1,28 @@
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\bin\Debug\net8.0\Robot.exe
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\bin\Debug\net8.0\Robot.deps.json
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\bin\Debug\net8.0\Robot.runtimeconfig.json
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\bin\Debug\net8.0\Robot.dll
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\bin\Debug\net8.0\Robot.pdb
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.AssemblyInfo.cs
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.dll
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\refint\Robot.dll
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.pdb
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.genruntimeconfig.cache
+C:\Users\David\Desktop\Facultate\An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\ref\Robot.dll
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\bin\Debug\net8.0\Robot.exe
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\bin\Debug\net8.0\Robot.deps.json
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\bin\Debug\net8.0\Robot.runtimeconfig.json
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\bin\Debug\net8.0\Robot.dll
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\bin\Debug\net8.0\Robot.pdb
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.AssemblyInfo.cs
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.dll
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\refint\Robot.dll
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.pdb
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\Robot.genruntimeconfig.cache
+C:\Users\David\Desktop\Facultate\INFO An 1 Sem 2\Programare Orientata pe Obiecte\Robot\Robot\obj\Debug\net8.0\ref\Robot.dll
